@@ -1,0 +1,471 @@
+.login-1,
+.login-1 * {
+  box-sizing: border-box;
+}
+.login-1 {
+  background: #ffffff;
+  border-radius: 50px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: #371f41;
+  width: 735px;
+  height: 1024px;
+  position: absolute;
+  left: 705px;
+  top: 0px;
+}
+.group-14 {
+  width: 735px;
+  height: 1024px;
+  position: static;
+}
+.rectangle-162 {
+  background: #ffffff;
+  width: 735px;
+  height: 1024px;
+  position: absolute;
+  left: 705px;
+  top: 0px;
+}
+.icon-park-outline-exchange {
+  width: 15.31px;
+  height: 30px;
+  position: absolute;
+  left: 733.07px;
+  top: 250px;
+  overflow: hidden;
+}
+.group-38 {
+  position: absolute;
+  inset: 0;
+}
+.group-57 {
+  width: 487px;
+  height: 630px;
+  position: static;
+}
+.group-41 {
+  width: 487px;
+  height: 451px;
+  position: static;
+}
+.group-32 {
+  width: 487px;
+  height: 301px;
+  position: static;
+}
+.forgot-password {
+  color: var(--orange-bg-font-color, #ee5719);
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 989px;
+  top: 625px;
+}
+.group-34 {
+  width: 487px;
+  height: 164px;
+  position: static;
+}
+.group-342 {
+  width: 487px;
+  height: 41px;
+  position: absolute;
+  left: 829px;
+  top: 417px;
+}
+.vector-4 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 2.44%;
+  top: 97.56%;
+  height: 0%;
+  overflow: visible;
+}
+.frame-42 {
+  width: 487px;
+  height: 25px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.password {
+  color: var(--gray-font-color, #6d717a);
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  right: 7.39%;
+  left: 0%;
+  width: 92.61%;
+  bottom: 12%;
+  top: 4%;
+  height: 84%;
+}
+.icon {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 94.87%;
+  width: 5.13%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.group-35 {
+  width: 487px;
+  height: 41px;
+  position: absolute;
+  left: 829px;
+  top: 347px;
+}
+.vector-42 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 2.44%;
+  top: 97.56%;
+  height: 0%;
+  overflow: visible;
+}
+.check-box {
+  align-items: center;
+  position: absolute;
+  left: 829px;
+  top: 487px;
+}
+.rectangle-40 {
+  background: #f8f7f7;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: var(--gray-font-color, #6d717a);
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.password2 {
+  color: var(--gray-font-color, #6d717a);
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: relative;
+}
+.group-352 {
+  width: 487px;
+  height: 50px;
+  position: static;
+}
+.rectangle-26 {
+  background: #426b1f;
+  border-radius: 50px;
+  width: 487px;
+  height: 50px;
+  position: absolute;
+  left: 829px;
+  top: 561px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1042px;
+  top: 574px;
+  width: 61.38px;
+}
+.group-412 {
+  width: 274px;
+  height: 91px;
+  position: static;
+}
+.group-48 {
+  width: 274px;
+  height: 91px;
+  position: static;
+}
+.group-58 {
+  width: 274px;
+  height: 91px;
+  position: static;
+}
+.sign-in2 {
+  color: #8e6412;
+  text-align: center;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1002px;
+  top: 197px;
+}
+.group-52 {
+  width: 274px;
+  height: 23px;
+  position: static;
+}
+.not-a-member {
+  color: var(--gray-font-color, #6d717a);
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 936px;
+  top: 265px;
+}
+.register-now {
+  color: var(--orange-bg-font-color, #ee5719);
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1086px;
+  top: 265px;
+}
+.group-59 {
+  width: 279.47px;
+  height: 109px;
+  position: static;
+}
+.or-sign-in-with {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1008px;
+  top: 718px;
+}
+.group-56 {
+  width: 279.47px;
+  height: 65px;
+  position: static;
+}
+.group-53 {
+  width: 65px;
+  height: 65px;
+  position: static;
+}
+.ellipse-8 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  left: 933px;
+  top: 762px;
+}
+.mdi-google {
+  width: 33.19px;
+  height: 33.19px;
+  position: absolute;
+  left: 949.6px;
+  top: 777.21px;
+  overflow: visible;
+}
+.group-54 {
+  width: 65px;
+  height: 65px;
+  position: static;
+}
+.ellipse-82 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  left: 1040.23px;
+  top: 762px;
+}
+.file-icons-microsoft-outlook {
+  height: auto;
+  position: absolute;
+  right: 24.4%;
+  left: 73.49%;
+  width: 2.11%;
+  bottom: 20.88%;
+  top: 76.03%;
+  height: 3.09%;
+  overflow: visible;
+}
+.group-55 {
+  width: 65px;
+  height: 65px;
+  position: static;
+}
+.ellipse-83 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  left: 1147.47px;
+  top: 762px;
+}
+.ic-baseline-apple {
+  height: auto;
+  position: absolute;
+  right: 16.57%;
+  left: 80.55%;
+  width: 2.88%;
+  bottom: 20.45%;
+  top: 75.49%;
+  height: 4.05%;
+  overflow: visible;
+}
+.group-42 {
+  width: 85px;
+  height: 24px;
+  position: static;
+}
+.material-symbols-close {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1336px;
+  top: 60px;
+  overflow: visible;
+}
+.close {
+  color: var(--blue-font-color, #061a48);
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1275px;
+  top: 60px;
+}
+.copyright-2022-fix-my-build-ltd-all-rights-reserved {
+  width: 286px;
+  height: 13px;
+  position: absolute;
+  left: 930px;
+  top: 951px;
+}
+.copyright-2022-fix-my-build-ltd-all-rights-reserved2 {
+  color: #606060;
+  text-align: right;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 3.5%;
+  width: 96.5%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-40 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-25 {
+  background: #f0f4c2;
+  width: 705px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-39 {
+  width: 536px;
+  height: 295.03px;
+  position: static;
+}
+.welcome-back {
+  color: #8e6412;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 158px;
+  bottom: 306.02px;
+  width: 303px;
+  height: 49.98px;
+}
+.good-quality-work-at-sensible-prices {
+  color: var(--gray-font-color, #6d717a);
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 80px;
+  bottom: 118px;
+}
+.amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat {
+  color: var(--gray-font-color, #6d717a);
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  bottom: 60.97px;
+  width: 536px;
+}
+.group-217 {
+  width: 537px;
+  height: 627px;
+  position: static;
+}
+._1-19 {
+  width: 537px;
+  height: 627px;
+  position: absolute;
+  left: 41px;
+  top: 135px;
+  object-fit: cover;
+}
+.smart-farm {
+  color: #426b1f;
+  text-align: left;
+  font-family: "Newsreader-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 100%;
+  font-weight: 500;
+  position: absolute;
+  left: 71px;
+  top: 55px;
+}
+.rectangle-21 {
+  background: rgba(34, 28, 51, 0.1);
+  width: 1164px;
+  height: 68px;
+  position: sticky;
+  left: 1556.4px;
+  top: 0px;
+  box-shadow: inset -41.07px 41.07px 41.07px 0px rgba(255, 255, 255, 0.1),
+    inset 41.07px -41.07px 41.07px 0px rgba(26, 21, 39, 0.1);
+  backdrop-filter: blur(41.07px);
+}
